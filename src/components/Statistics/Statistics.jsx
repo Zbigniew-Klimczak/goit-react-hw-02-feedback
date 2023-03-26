@@ -1,4 +1,4 @@
-import css from './Section.module.css';
+import css from '../Section.module.css';
 import PropTypes from 'prop-types';
 export const Statistics = ({
   title,

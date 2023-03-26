@@ -1,8 +1,8 @@
 import { Component } from 'react';
-import { Statistics } from './Statistics.jsx';
-import { FeedbackOptions } from './FeedbackOptions.jsx';
-import { Section } from './Section.jsx';
-import { Notification } from './Notification.jsx';
+import { Statistics } from './Statistics/Statistics.jsx';
+import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions.jsx';
+import { Section } from './Section/Section.jsx';
+import { Notification } from './Notifications/Notification.jsx';
 export class App extends Component {
   constructor() {
     super();
